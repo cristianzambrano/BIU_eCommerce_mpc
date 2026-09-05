@@ -5,7 +5,7 @@ from decimal import Decimal
 from dotenv import load_dotenv
 from fastmcp import FastMCP
 from supabase import create_client
-import stripe
+
 
 load_dotenv()
 
